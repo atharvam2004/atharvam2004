@@ -1,6 +1,6 @@
 <table><tr><th width=3000px><img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt=""></th></tr></table>
 <h1 align="center">Hi 👋, I'm Atharva Meher</h1>
-<h3 align="center">A passionate Full Stack Developer and innovation solutions provider</h3>
+<h3 align="center">A passionate Full Stack Developer and innovative solutions provider</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvam2004&label=Profile%20views&color=0e75b6&style=flat" alt="atharvam2004" /> </p>
 
