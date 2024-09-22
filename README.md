@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Dukaan - An Ecommerce Platform](https://dukaan-mern.onrender.com/)
+- 🔭 I’m currently working on [Dukaan - An E-commerce Platform](https://dukaan-mern.onrender.com/)
 
 - 🌱 I’m currently learning **MERN and DSA**
 
 - 💬 Ask me about **React, NodeJS**
-- 
-- 🌱 ### Completed internships and contributed to [@connectwisellp](https://www.connectwise.com) and [@yoliday llp](https://www.yoliday.in)
+  
+- 🌱 ### Completed internships and contributed to [@connectwise](https://www.connectwise.com) and [@Yoliday LLP](https://www.yoliday.in)
 
 - 📫 How to reach me **meheratharva49@gmail.com**
 
